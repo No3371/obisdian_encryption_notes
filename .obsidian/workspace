@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "c0776c894cf7660d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e4e6ab915c6b911",
+        "type": "leaf",
+        "dimension": 48.42105263157894,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diffie-Hellman Key Exchange.md",
+            "mode": "source"
+          }
+        },
+        "group": "8e08b6291cf29d38"
+      },
+      {
+        "id": "88a4b5fbf72f8e33",
+        "type": "leaf",
+        "dimension": 51.57894736842106,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diffie-Hellman Key Exchange.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8e08b6291cf29d38"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6eaa60a5d57b7e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4af3181aed9f9c7",
+        "type": "tabs",
+        "dimension": 57.50242013552759,
+        "children": [
+          {
+            "id": "1fd7f11204f03523",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e92ba0f58b6489e",
+        "type": "tabs",
+        "dimension": 42.49757986447241,
+        "children": [
+          {
+            "id": "d2b6a0865d59b165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aac23f31144c38d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "しこむ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b64167fde41e85ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 511
+  },
+  "right": {
+    "id": "46a097d81ac39ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "755552ed83967de6",
+        "type": "tabs",
+        "dimension": 49.56437560503388,
+        "children": [
+          {
+            "id": "c7941aff5c3935b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diffie-Hellman Key Exchange.md"
+              }
+            }
+          },
+          {
+            "id": "9e9703eea175166a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "79a91b25b224c3d8",
+        "type": "tabs",
+        "dimension": 50.43562439496612,
+        "children": [
+          {
+            "id": "9f8040efca2cd4ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diffie-Hellman Key Exchange.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Diffie-Hellman Key Exchange.md",
+    "Forward Secrecy.md",
+    "Forward secrecy.md",
+    "Untitled.md",
+    "README.md",
+    "かわく（乾く）.md",
+    "Untitled 1.md",
+    "【Ｎ２文法】～をきっかけにして／がきっかけで／がきっかけになって.md",
+    "いとぐち（糸口）.md",
+    "けいき（契機）.md"
+  ]
+}
