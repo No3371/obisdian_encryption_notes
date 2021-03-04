@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diffie-Hellman Key Exchange.md",
+            "file": "Double Ratchet Algorithm.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diffie-Hellman Key Exchange.md",
+            "file": "Double Ratchet Algorithm.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffie-Hellman Key Exchange.md"
+                "file": "Double Ratchet Algorithm.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffie-Hellman Key Exchange.md",
+                "file": "Double Ratchet Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Double Ratchet Algorithm.md",
     "Diffie-Hellman Key Exchange.md",
+    "Key Derivation Function.md",
+    "Untitled.md",
     "Forward Secrecy.md",
     "Forward secrecy.md",
-    "Untitled.md",
     "README.md",
     "かわく（乾く）.md",
     "Untitled 1.md",
-    "【Ｎ２文法】～をきっかけにして／がきっかけで／がきっかけになって.md",
-    "いとぐち（糸口）.md",
-    "けいき（契機）.md"
+    "【Ｎ２文法】～をきっかけにして／がきっかけで／がきっかけになって.md"
   ]
 }
